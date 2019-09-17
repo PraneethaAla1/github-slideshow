@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to oue second slide!"
 ---
-your text
+New Commit msg
 use the left arrow to go back!
